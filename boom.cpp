@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "num_collection.h"
+#include "group.h"
 
 int main( int argc, const char* argv[] )
 {
